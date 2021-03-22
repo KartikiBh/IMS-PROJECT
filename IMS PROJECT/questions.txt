@@ -1,0 +1,10 @@
+1111,9002,Which of the following is the correct way of declaring an array?,int javatpoint[10],int javatpoint,javatpoint{20},array javatpoint[10],1
+1111,9003,Which of the following is the advantage of the array data structure?,Elements of mixed data types can be stored,Easier to access the elements in an array,Index of the first element starts from 1,Elements of an array cannot be sorted,2
+1111,9004,Which of the following highly uses the concept of an array?,Binary Search tree,Caching,Spatial locality,Scheduling of Processes,3
+1112,9042,The examination and changing of single bits or small groups of his within a word is called,Bit,Byte,Bit manipulation,Bit slice,3
+1112,9043,Which computer has been designed to be as compact as possible?,Mini,Super computer,Micro computer,Mainframe,3
+1112,9044,Which method is used to connect a remote computer?,Device,Dialup,Diagnostic,Logic circuit,2
+1112,9045,How many bit code is used by Murray code for TELEPRINTER machines,4,5,9,25,2
+1112,9046,The symbols used in an assembly language are,Codes,Mnemonics,Assembler,All of the above,2
+1112,9047,A number that is used to control the form of another number is known as,Map,Mask,Mamtossa,Marker,2
+1115,9049,vdfvdrtb,nythrdgbfvcewas,nytfgbyresd,rtnbfdvesc,sdvbretfbgv,3
